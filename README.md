@@ -1,8 +1,8 @@
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,50:1a1b27,100:0d1117&height=220&section=header&text=Deepanshu%20Gupta&fontSize=42&fontColor=58a6ff&animation=fadeIn&fontAlignY=35&desc=Backend%20Engineer%20%7C%20System%20Architect%20%7C%20Guitarist&descSize=16&descColor=8b949e&descAlignY=55" />
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,50:0052cc,100:0d1117&height=220&section=header&text=Deepanshu%20Gupta&fontSize=42&fontColor=ffffff&animation=fadeIn&fontAlignY=35&desc=Senior%20Software%20Engineer%20%7C%20System%20Architect&descSize=18&descColor=8b949e&descAlignY=55" />
 
 <div align="center">
   
-  <img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&size=22&duration=3000&pause=1000&color=58A6FF&center=true&vCenter=true&multiline=true&repeat=true&width=600&height=60&lines=%F0%9F%8E%B8+Code+by+day%2C+riffs+by+night;%E2%9A%A1+Building+distributed+systems+at+scale" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&size=24&duration=3000&pause=1000&color=00D1FF&center=true&vCenter=true&multiline=true&repeat=true&width=600&height=60&lines=%E2%9A%A1+Architecting+Distributed+Systems+at+Scale;%F0%9F%9A%80+Golang+%7C+Kubernetes+%7C+Cloud+Native" alt="Typing SVG" />
 
 </div>
 
@@ -13,93 +13,60 @@
 ### `$ whoami`
 
 ```yaml
-name: Deepanshu Gupta
-role: Senior Software Engineer
-company: Kairos Technologies, Pune
-experience: 5.2+ years
-location: Delhi/NCR, India
-status: Open to Freelance 🟢
+identity:
+  name: Deepanshu Gupta
+  role: Senior Software Engineer
+  expertise: Backend Systems & Architecture
+  experience: 5.2+ Years
+  location: Delhi/NCR, India
 
-passions:
-  - 🎸 Playing Guitar (Acoustic & Electric)
-  - ⚡ Distributed Systems
-  - 🏗️ System Architecture
-  - 🎵 Music Production
+technical_mission:
+  - Optimizing high-throughput distributed architectures
+  - Scaling cloud-native systems with K8s & AWS
+  - Engineering resilient & fault-tolerant backends
 ```
 
 <br clear="right"/>
 
 ---
 
-### 🎸 About Me
+### 🚀 About Me
 
-> *"The best code, like the best music, is written with feeling."*
+I am a **Senior Software Engineer** with over **5.2 years** of experience specializing in building high-performance, resilient backend systems. My core expertise lies in **Golang**, **Microservices/Macro-services**, and **Cloud Infrastructure**.
 
-I'm a **Senior Software Engineer** with **5.2+ years** of experience building high-performance cloud-native backend systems. Currently leading **macro-service architecture** and **Kubernetes orchestration** at **Kairos Technologies**.
-
-When I'm not architecting distributed systems, you'll find me **shredding on my guitar** 🎸 — because debugging code and tuning strings require the same patience.
+Currently at **Kairos Technologies**, I lead architectural decisions focusing on **Kubernetes orchestration**, **gRPC communications**, and **system scalability**. I am passionate about solving complex engineering challenges and optimizing system throughput.
 
 ---
 
-### 🛠️ Tech Stack
+### 🛠️ Technical Matrix
 
 <div align="center">
 
-| Domain | Technologies |
+| Layer | Technologies |
 |:---|:---|
-| **Languages** | ![Go](https://img.shields.io/badge/Go-00ADD8?style=for-the-badge&logo=go&logoColor=white) ![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white) ![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white) ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white) |
-| **Cloud & DevOps** | ![AWS](https://img.shields.io/badge/AWS-FF9900?style=for-the-badge&logo=amazonaws&logoColor=white) ![Kubernetes](https://img.shields.io/badge/K8s-326CE5?style=for-the-badge&logo=kubernetes&logoColor=white) ![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white) |
-| **Data** | ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white) ![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white) ![Redis](https://img.shields.io/badge/Redis-DC382D?style=for-the-badge&logo=redis&logoColor=white) |
-| **Protocols** | ![gRPC](https://img.shields.io/badge/gRPC-244c5a?style=for-the-badge&logo=google&logoColor=white) ![REST](https://img.shields.io/badge/REST-009688?style=for-the-badge&logo=fastapi&logoColor=white) |
-| **Guitar Gear** | 🎸 Acoustic · 🎸 Electric · 🎛️ Pedalboard · 🎵 Fingerstyle |
+| **Core Languages** | ![Go](https://img.shields.io/badge/Go-00ADD8?style=for-the-badge&logo=go&logoColor=white) ![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white) ![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white) ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white) |
+| **Cloud & Orchestration** | ![AWS](https://img.shields.io/badge/AWS-FF9900?style=for-the-badge&logo=amazonaws&logoColor=white) ![Kubernetes](https://img.shields.io/badge/K8s-326CE5?style=for-the-badge&logo=kubernetes&logoColor=white) ![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white) |
+| **Data Persistence** | ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white) ![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white) ![Redis](https://img.shields.io/badge/Redis-DC382D?style=for-the-badge&logo=redis&logoColor=white) |
+| **Communication** | ![gRPC](https://img.shields.io/badge/gRPC-244c5a?style=for-the-badge&logo=google&logoColor=white) ![REST](https://img.shields.io/badge/REST-009688?style=for-the-badge&logo=fastapi&logoColor=white) |
 
 </div>
 
 ---
 
-### 💼 Career Timeline
-
-```
-🟢 Nov 2024 – Present   →  Kairos Technologies      →  Senior Software Engineer
-🔵 Nov 2022 – Oct 2024  →  Ascendion Engineering     →  Software Engineer  
-🟣 Jul 2020 – Nov 2022  →  Coforge Ltd               →  Senior Software Engineer
-⚪ Jan 2020 – Jul 2020   →  NIIT Technologies          →  Trainee Java Developer
-```
-
----
-
-### 🎵 What I'm Vibing To
+### 📊 Performance Metrics
 
 <div align="center">
-
-```
-   ╔══════════════════════════════════════╗
-   ║  🎸  Current Jam:                    ║
-   ║  ♫  Hotel California — Eagles        ║
-   ║  ♫  Comfortably Numb — Pink Floyd    ║
-   ║  ♫  Numb — Linkin Park               ║
-   ║  ▶ ━━━━━━━●━━━━━━━━━ 3:42 / 6:23    ║
-   ╚══════════════════════════════════════╝
-```
-
-</div>
-
----
-
-### 📊 GitHub Stats
-
-<div align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=deepanshu102&show_icons=true&theme=github_dark&hide_border=true&bg_color=0d1117&icon_color=58a6ff&title_color=58a6ff&text_color=c9d1d9&count_private=true" alt="GitHub Stats" />
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=deepanshu102&layout=compact&theme=github_dark&hide_border=true&bg_color=0d1117&title_color=58a6ff&text_color=c9d1d9&hide=c,c%2B%2B&langs_count=6" alt="Top Languages" />
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=deepanshu102&show_icons=true&theme=github_dark&hide_border=true&bg_color=0d1117&icon_color=00D1FF&title_color=00D1FF&text_color=c9d1d9&count_private=true" alt="GitHub Stats" />
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=deepanshu102&layout=compact&theme=github_dark&hide_border=true&bg_color=0d1117&title_color=00D1FF&text_color=c9d1d9&hide=c,c%2B%2B&langs_count=6" alt="Top Languages" />
 </div>
 
 <div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=deepanshu102&theme=github-dark-blue&hide_border=true&background=0d1117&ring=58a6ff&fire=58a6ff&currStreakLabel=58a6ff" alt="GitHub Streak" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=deepanshu102&theme=github-dark-blue&hide_border=true&background=0d1117&ring=00D1FF&fire=00D1FF&currStreakLabel=00D1FF" alt="GitHub Streak" />
 </div>
 
 ---
 
-### 🐍 Contribution Graph
+### 🐍 Contribution Activity
 
 <div align="center">
   <picture>
@@ -111,11 +78,11 @@ When I'm not architecting distributed systems, you'll find me **shredding on my 
 
 ---
 
-### 🤝 Connect With Me
+### 🤝 Establish Connection
 
 <div align="center">
 
-[![Portfolio](https://img.shields.io/badge/Portfolio-deepanshu102.github.io-58a6ff?style=for-the-badge&logo=googlechrome&logoColor=white)](https://deepanshu102.github.io)
+[![Portfolio](https://img.shields.io/badge/Portfolio-deepanshu102.github.io-00D1FF?style=for-the-badge&logo=googlechrome&logoColor=white)](https://deepanshu102.github.io)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-deepanshu102-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/deepanshu102/)
 [![Email](https://img.shields.io/badge/Email-deepanshuofficials-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:deepanshuofficials@gmail.com)
 
@@ -125,12 +92,12 @@ When I'm not architecting distributed systems, you'll find me **shredding on my 
 
 <div align="center">
   
-  <img src="https://komarev.com/ghpvc/?username=deepanshu102&color=58a6ff&style=for-the-badge&label=PROFILE+VIEWS" alt="Profile Views" />
+  <img src="https://komarev.com/ghpvc/?username=deepanshu102&color=00D1FF&style=for-the-badge&label=SYSTEM+VISITS" alt="Profile Views" />
 
-  ```
-  🎸 "Life is like a guitar — you need both the highs and lows to make music." 🎶
+  ```zsh
+  # END OF TRANSMISSION
   ```
 
 </div>
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,50:1a1b27,100:0d1117&height=120&section=footer" />
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,50:0052cc,100:0d1117&height=120&section=footer" />
