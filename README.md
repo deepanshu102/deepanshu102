@@ -1,22 +1,67 @@
-<h1 align="center">Hi 👋, I'm Deepanshu Gupta</h1>
-<h3 align="center">A passionate developer from India</h3>
+# Deepanshu Gupta — System Architect & Backend Engineer
 
-- 🔭 I’m currently working on **Blockchain-go**
+```zsh
+> ACCESSING SYSTEMS...
+> IDENTITY VERIFIED: Senior Software Engineer (5.2+ Years)
+> CURRENT_LOCATION: Delhi/NCR, India
+> STATUS: 🟢 Available for Freelance
+```
 
-- 🌱 I’m currently learning **Blockchain**
+---
 
-- 💬 Ask me about **golang, java**
+### // IDENTITY_STATEMENT
+> Architect of resilience. 5.2+ years building high-performance cloud-native backend systems. Currently leading macro-service architecture and K8s orchestration at **Kairos Technologies**, Pune. I specialize in distributed systems, distributed databases, and high-concurrency Golang architectures.
 
-<h3 align="left">Connect with me:</h3>
+---
+
+### // CURRENT_FOCUS
+- 🔭 **Environment:** Leading Macro-service & K8s orchestration at Kairos Technologies
+- 🛠 **Core_Stack:** Golang · gRPC · Kubernetes · AWS · Node.js
+- 💬 **Ask_Me_About:** Distributed systems, throughput optimization, distributed tracing
+- 🌐 **Uplink:** [deepanshu102.github.io](https://deepanshu102.github.io)
+
+---
+
+### // TECH_STACK_MATRIX
+![Golang](https://img.shields.io/badge/Golang-00ADD8?style=flat-square&logo=go&logoColor=white)
+![Kubernetes](https://img.shields.io/badge/Kubernetes-326CE5?style=flat-square&logo=kubernetes&logoColor=white)
+![gRPC](https://img.shields.io/badge/gRPC-244c5a?style=flat-square&logo=google&logoColor=white)
+![AWS](https://img.shields.io/badge/AWS-FF9900?style=flat-square&logo=amazonaws&logoColor=white)
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=nodedotjs&logoColor=white)
+![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
+![Java](https://img.shields.io/badge/Java-ED8B00?style=flat-square&logo=openjdk&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white)
+![Redis](https://img.shields.io/badge/Redis-DC382D?style=flat-square&logo=redis&logoColor=white)
+
+---
+
+### // CAREER_LOG
+| PERIOD | COMPANY | ROLE |
+|:---|:---|:---|
+| Nov 2024 – Present | **Kairos Technologies** | Senior Software Engineer |
+| Nov 2022 – Oct 2024 | **Ascendion Engineering** | Software Engineer |
+| Jul 2020 – Nov 2022 | **Coforge Ltd** | Senior Software Engineer |
+| Jan 2020 – Jul 2020 | **NIIT Technologies** | Trainee Java Developer |
+
+---
+
+### // SYSTEM_METRICS
 <p align="left">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=deepanshu102&layout=compact&theme=tokyonight&hide_border=true&bg_color=00000000&hide=c,c%2B%2B&langs_count=6" alt="Top Languages" />
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=deepanshu102&show_icons=true&theme=tokyonight&hide_border=true&bg_color=00000000&count_private=true" alt="GitHub Stats" />
 </p>
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://angular.io" target="_blank" rel="noreferrer"> <img src="https://angular.io/assets/images/logos/angular/angular.svg" alt="angular" width="40" height="40"/> </a> <a href="https://aws.amazon.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" alt="aws" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://www.djangoproject.com/" target="_blank" rel="noreferrer"> <img src="https://cdn.worldvectorlogo.com/logos/django.svg" alt="django" width="40" height="40"/> </a> <a href="https://www.docker.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" alt="docker" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://golang.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/go/go-original.svg" alt="go" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://www.java.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a> <a href="https://www.linux.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> </a> <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/> </a> <a href="https://www.microsoft.com/en-us/sql-server" target="_blank" rel="noreferrer"> <img src="https://www.svgrepo.com/show/303229/microsoft-sql-server-logo.svg" alt="mssql" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://nodejs.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> <a href="https://spring.io/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/springio/springio-icon.svg" alt="spring" width="40" height="40"/> </a> </p>
+---
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=deepanshu102&show_icons=true&locale=en&layout=compact" alt="deepanshu102" /></p>
+### // ESTABLISH_UPLINK
+[![Portfolio](https://img.shields.io/badge/Portfolio-deepanshu102.github.io-00f5ff?style=flat-square)](https://deepanshu102.github.io)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-bitsbytesofficial-0077B5?style=flat-square&logo=linkedin)](https://www.linkedin.com/in/bitsbytesofficial/)
+[![Email](https://img.shields.io/badge/Email-deepanshuofficials@gmail.com-D14836?style=flat-square&logo=gmail)](mailto:deepanshuofficials@gmail.com)
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=deepanshu102&show_icons=true&locale=en" alt="deepanshu102" /></p>
+---
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=deepanshu102&" alt="deepanshu102" /></p>
-
+```zsh
+> SESSION_STATE: PERSISTENT
+> END_OF_TRANSMISSION
+```
