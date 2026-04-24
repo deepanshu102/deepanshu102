@@ -116,7 +116,7 @@ When I'm not architecting distributed systems, you'll find me **shredding on my 
 <div align="center">
 
 [![Portfolio](https://img.shields.io/badge/Portfolio-deepanshu102.github.io-58a6ff?style=for-the-badge&logo=googlechrome&logoColor=white)](https://deepanshu102.github.io)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-bitsbytesofficial-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/bitsbytesofficial/)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-deepanshu102-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/deepanshu102/)
 [![Email](https://img.shields.io/badge/Email-deepanshuofficials-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:deepanshuofficials@gmail.com)
 
 </div>
