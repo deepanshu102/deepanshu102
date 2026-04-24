@@ -53,6 +53,29 @@ Currently at **Kairos Technologies**, I lead architectural decisions focusing on
 
 ---
 
+### 🛡️ External Valuation // Verified Credentials
+
+<div align="center">
+
+| ISSUER | CREDENTIAL_NAME | STATUS |
+|:---|:---|:---|
+| **Anthropic** | Introduction to Agent Skills | `[ VERIFIED ]` |
+| **Anthropic** | Claude 101 | `[ VERIFIED ]` |
+| **HackerRank** | Basics of Golang | `[ VERIFIED ]` |
+| **Sololearn** | GO Professional Certification | `[ VERIFIED ]` |
+| **Udemy** | Blockchain with Go | `[ VERIFIED ]` |
+| **Udemy** | Spring Framework & Spring Boot | `[ VERIFIED ]` |
+| **Udemy** | Introduction of MongoDB | `[ VERIFIED ]` |
+| **Udemy** | Node Js and Express | `[ VERIFIED ]` |
+| **Udemy** | Java Core | `[ VERIFIED ]` |
+| **Be10x** | AI Tools Workshop | `[ VERIFIED ]` |
+| **Tech Explica** | Python-Django | `[ VERIFIED ]` |
+| **SSMS** | J2EE Development | `[ VERIFIED ]` |
+
+</div>
+
+---
+
 ### 📊 Performance Metrics
 
 <div align="center">
