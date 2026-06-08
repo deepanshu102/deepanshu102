@@ -21,7 +21,7 @@ identity:
   name: Deepanshu Gupta
   role: Senior Software Engineer
   expertise: Backend Systems & Architecture
-  experience: 5.2+ Years
+  experience: 5.6+ Years
   location: Delhi/NCR, India
 
 technical_mission:
@@ -43,7 +43,7 @@ technical_mission:
 
 ### 🚀 About Me
 
-I am a **Senior Software Engineer** with over **5.2 years** of experience specializing in building high-performance, resilient backend systems. My core expertise lies in **Golang**, **Microservices/Macro-services**, and **Cloud Infrastructure**.
+I am a **Senior Software Engineer** with over **5.6 years** of experience specializing in building high-performance, resilient backend systems. My core expertise lies in **Golang**, **Microservices/Macro-services**, and **Cloud Infrastructure**.
 
 Currently at **Kairos Technologies**, I lead architectural decisions focusing on **Kubernetes orchestration**, **gRPC communications**, and **system scalability**. I am passionate about solving complex engineering challenges and optimizing system throughput.
 
