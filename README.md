@@ -1,39 +1,44 @@
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,50:0052cc,100:0d1117&height=220&section=header&text=Deepanshu%20Gupta&fontSize=42&fontColor=ffffff&animation=fadeIn&fontAlignY=35&desc=Senior%20Software%20Engineer%20%7C%20System%20Architect&descSize=18&descColor=8b949e&descAlignY=55" />
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,50:0052cc,100:0d1117&height=220&section=header&text=Deepanshu%20Gupta&fontSize=42&fontColor=ffffff&animation=fadeIn&fontAlignY=35&desc=Senior%20Backend%20Engineer%20%7C%20Go%20(Golang)%20%7C%20AWS%20%7C%20Microservices%20%7C%20Distributed%20Systems&descSize=16&descColor=8b949e&descAlignY=55" />
 
 <div align="center">
 
-<img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&size=22&duration=3000&pause=1000&color=00D1FF&center=true&vCenter=true&multiline=true&repeat=true&width=650&height=70&lines=%E2%9A%A1+Architecting+Distributed+Systems+at+Scale;%F0%9F%9A%80+Golang+%7C+Kubernetes+%7C+Cloud+Native" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&size=23&duration=3000&pause=1000&color=00D1FF&center=true&vCenter=true&multiline=true&repeat=true&width=650&height=65&lines=Senior+Backend+Engineer+%7C+Go+(Golang);Distributed+Systems+%26+Microservices+at+Scale;AWS+Cloud+Native+%7C+High-Throughput+gRPC+%26+REST+APIs;HLD%2FLLD+Architecture+%26+Full-Stack+Observability" alt="Typing SVG" />
 
 </div>
 
 <br/>
 
----
-
 ### `$ whoami`
 
 <table>
 <tr>
-<td valign="top" width="55%">
+<td valign="top" width="58%">
 
 ```yaml
 identity:
   name: Deepanshu Gupta
-  role: Senior Software Engineer
-  expertise: Backend Systems & Architecture
-  experience: 5.6+ Years
+  role: Senior Backend Engineer
+  experience: 6+ Years
   location: Delhi/NCR, India
+  status: Open to Opportunities 🟢
 
-technical_mission:
-  - Optimizing high-throughput distributed architectures
-  - Scaling cloud-native systems with K8s & AWS
-  - Engineering resilient & fault-tolerant backends
+hierarchy_of_expertise:
+  - primary: Go (Golang)
+  - architecture: Distributed Systems & Microservices (HLD/LLD)
+  - cloud_platform: AWS (Serverless, S3, DLQ, Lambda, API Gateway)
+  - protocols_apis: gRPC, Protocol Buffers (Protobuf), REST
+  - data_persistence: MySQL, PostgreSQL, MongoDB, DynamoDB, Redis
+  - observability: Prometheus, Grafana, Metrics Triage
+
+current_engagement:
+  organization: Kairos Technologies
+  focus: High-throughput Go microservices, HLD/LLD specs & AWS event ingestion
 ```
 
 </td>
-<td valign="top" width="45%">
+<td valign="top" width="42%">
 
-<img src="https://i.giphy.com/media/v1.Y2lkPTc5MGI3NjExcDd6dWx0ZXBhNTR6YTRyN2V6d2RtOWRyZGs2ZnVudGc2OHR2aCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/qgQUggAC3Pfv687qPC/giphy.gif" width="100%" alt="Coding GIF"/>
+<img src="https://i.giphy.com/media/v1.Y2lkPTc5MGI3NjExcDd6dWx0ZXBhNTR6YTRyN2V6d2RtOWRyZGs2ZnVudGc2OHR2aCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/qgQUggAC3Pfv687qPC/giphy.gif" width="100%" alt="Terminal Coding GIF"/>
 
 </td>
 </tr>
@@ -43,47 +48,61 @@ technical_mission:
 
 ### 🚀 About Me
 
-I am a **Senior Software Engineer** with over **5.6 years** of experience specializing in building high-performance, resilient backend systems. My core expertise lies in **Golang**, **Microservices/Macro-services**, and **Cloud Infrastructure**.
+I am a **Senior Backend Engineer** with **6+ years** of experience architecting and engineering high-throughput, distributed microservices and cloud-native systems. My primary technical depth centers on **Go (Golang)**, **Distributed Systems**, **AWS**, and **gRPC / Protobuf**.
 
-Currently at **Kairos Technologies**, I lead architectural decisions focusing on **Kubernetes orchestration**, **gRPC communications**, and **system scalability**. I am passionate about solving complex engineering challenges and optimizing system throughput.
+Currently at **Kairos Technologies**, I author **HLD/LLD specifications**, build high-performance Go microservices for mobile backends, optimize data pipelines (cutting job runtimes by up to 50%), and instrument observability dashboards via **Prometheus & Grafana**. Over the course of my career across **Kairos Technologies**, **Ascendion Engineering**, **Coforge**, and **NIIT Technologies**, I have engineered core transactional ledger engines, migrated 200K+ critical healthcare records to AWS with zero downtime, and decomposed monolithic systems into scalable Go services.
 
 ---
 
 ### 🛠️ Technical Matrix
 
-<div align="center">
+| Domain | Technologies & Tooling |
+| :--- | :--- |
+| **Backend Languages** | ![Go](https://img.shields.io/badge/Go-00ADD8?style=flat-square&logo=go&logoColor=white) **Go (Golang)** · ![Java](https://img.shields.io/badge/Java-ED8B00?style=flat-square&logo=openjdk&logoColor=white) **Java** · ![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white) **TypeScript** · ![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=nodedotjs&logoColor=white) **Node.js** · ![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white) **Python** · **SQL** |
+| **Distributed Systems & Architecture** | **Microservices Architecture** · **System Design (HLD / LLD)** · **Domain-Driven Design (DDD)** · **Dead-Letter Queues (DLQ)** · **Latency & Runtime Optimization** · **Data Reconciliation** |
+| **Frameworks & Communication** | ![gRPC](https://img.shields.io/badge/gRPC-244c5a?style=flat-square&logo=google&logoColor=white) **gRPC** · **Protocol Buffers (Protobuf)** · **Gin** · **Gorilla/Mux** · **Echo** · **GORM** · ![Spring Boot](https://img.shields.io/badge/Spring_Boot-6DB33F?style=flat-square&logo=springboot&logoColor=white) **Spring Boot** · **RESTful APIs** |
+| **Cloud & DevOps** | ![AWS](https://img.shields.io/badge/AWS-FF9900?style=flat-square&logo=amazonaws&logoColor=white) **AWS (Lambda, S3, API Gateway, CloudFormation, CloudWatch)** · ![Kubernetes](https://img.shields.io/badge/Kubernetes-326CE5?style=flat-square&logo=kubernetes&logoColor=white) **Kubernetes (K8s)** · ![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white) **Docker** · **Bazel** · **Azure DevOps** · **GitLab CI** · **Harness** |
+| **Databases & Caching** | ![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white) **MySQL** · ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white) **PostgreSQL** · ![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white) **MongoDB** · ![DynamoDB](https://img.shields.io/badge/DynamoDB-4053D6?style=flat-square&logo=amazondynamodb&logoColor=white) **Amazon DynamoDB** · ![Redis](https://img.shields.io/badge/Redis-DC382D?style=flat-square&logo=redis&logoColor=white) **Redis** |
+| **Observability & Testing** | ![Prometheus](https://img.shields.io/badge/Prometheus-E6522C?style=flat-square&logo=prometheus&logoColor=white) **Prometheus** · ![Grafana](https://img.shields.io/badge/Grafana-F46800?style=flat-square&logo=grafana&logoColor=white) **Grafana** · **NGINX** · **Testify (TDD & Mocking)** · **Distributed Tracing** |
 
-| Layer | Technologies |
-|:---|:---|
-| **Core Languages** | ![Go](https://img.shields.io/badge/Go-00ADD8?style=for-the-badge&logo=go&logoColor=white) ![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white) ![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white) ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white) |
-| **Cloud & Orchestration** | ![AWS](https://img.shields.io/badge/AWS-FF9900?style=for-the-badge&logo=amazonaws&logoColor=white) ![Kubernetes](https://img.shields.io/badge/K8s-326CE5?style=for-the-badge&logo=kubernetes&logoColor=white) ![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white) |
-| **Data Persistence** | ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white) ![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white) ![Redis](https://img.shields.io/badge/Redis-DC382D?style=for-the-badge&logo=redis&logoColor=white) |
-| **Communication** | ![gRPC](https://img.shields.io/badge/gRPC-244c5a?style=for-the-badge&logo=google&logoColor=white) ![REST](https://img.shields.io/badge/REST-009688?style=for-the-badge&logo=fastapi&logoColor=white) |
+---
 
-</div>
+### 💼 Career History
+
+| Period | Organization | Role | Key Engineering Scope |
+| :--- | :--- | :--- | :--- |
+| **Nov 2024 – Present** | **Kairos Technologies** | Senior Software Engineer | Distributed Go microservices, gRPC/Protobuf, HLD/LLD specs, automated S3 ingestion, Prometheus/Grafana triage |
+| **Nov 2022 – Oct 2024** | **Ascendion Engineering** | Software Engineer | Modular Go REST microservices (Gorilla/Mux, GORM, MongoDB), 200K+ zero-downtime ETL migration to AWS |
+| **Jul 2020 – Nov 2022** | **Coforge** | Senior Software Engineer | Core SaaS transaction & ledger engines, monolithic feature decomposition to scalable Go & Spring Boot on AWS |
+| **Jan 2020 – Jul 2020** | **NIIT Technologies** | Trainee Java Developer | RESTful APIs with Java, Spring Boot, MySQL, and serverless AWS Lambda triggers |
+
+---
+
+### 🏆 Key Engineering Achievements
+
+- 🥇 **"One-Man Army" Award:** Recognized by client leadership for independently delivering critical microservices end-to-end.
+- ⚡ **50% Data Crunch Optimization:** Slashed data crunch runtime from 6h to 3h and cut cron execution from 3h to 20m via automated deduplication endpoints and collision resolution.
+- ☁️ **200K+ Cloud Database Migration:** Successfully migrated 200,000+ sensitive healthcare records to AWS databases via automated ETL pipelines with zero downtime.
+- 📉 **Latency Reduction:** Slashed mobile API latency for Go microservices using gRPC/Protobuf and flattened JSON payload restructuring.
 
 ---
 
 ### 🛡️ External Valuation // Verified Credentials
 
-<div align="center">
-
-| ISSUER | CREDENTIAL | STATUS |
-|:---|:---|:---:|
-| **Anthropic** | Introduction to Agent Skills | ✅ VERIFIED |
-| **Anthropic** | Claude 101 | ✅ VERIFIED |
-| **HackerRank** | Basics of Golang | ✅ VERIFIED |
-| **Sololearn** | GO Professional Certification | ✅ VERIFIED |
-| **Udemy** | Blockchain with Go | ✅ VERIFIED |
-| **Udemy** | Spring Framework & Spring Boot | ✅ VERIFIED |
-| **Udemy** | Introduction of MongoDB | ✅ VERIFIED |
-| **Udemy** | Node.js and Express | ✅ VERIFIED |
-| **Udemy** | Java Core | ✅ VERIFIED |
-| **Be10x** | AI Tools Workshop | ✅ VERIFIED |
-| **Tech Explica** | Python-Django | ✅ VERIFIED |
-| **SSMS** | J2EE Development | ✅ VERIFIED |
-
-</div>
+| Issuer | Credential | Domain | Verification |
+| :--- | :--- | :--- | :---: |
+| **Anthropic** | Introduction to Agent Skills | AI & LLMs | ✅ VERIFIED |
+| **Anthropic** | Claude 101 | AI & LLMs | ✅ VERIFIED |
+| **HackerRank** | Basics of Golang | Go Systems | ✅ VERIFIED |
+| **SoloLearn** | GO Professional Certification | Go Systems | ✅ VERIFIED |
+| **Udemy** | Blockchain with Go | Distributed Architecture | ✅ VERIFIED |
+| **Udemy** | Spring Framework & Spring Boot | Enterprise Java | ✅ VERIFIED |
+| **Udemy** | Introduction of MongoDB | NoSQL Databases | ✅ VERIFIED |
+| **Udemy** | Node.js and Express | Backend Development | ✅ VERIFIED |
+| **Udemy** | Java Core | Object-Oriented Systems | ✅ VERIFIED |
+| **Be10x** | AI Tools Workshop | AI Productivity | ✅ VERIFIED |
+| **Tech Explica** | Python-Django | Full-Stack Backend | ✅ VERIFIED |
+| **NIIT Technologies / SSMS** | Enterprise J2EE Development | Java Enterprise | ✅ VERIFIED |
 
 ---
 
