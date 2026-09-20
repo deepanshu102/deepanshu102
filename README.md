@@ -50,7 +50,7 @@ current_engagement:
 
 I am a **Senior Backend Engineer** with **6+ years** of experience architecting and engineering high-throughput, distributed microservices and cloud-native systems. My primary technical depth centers on **Go (Golang)**, **Distributed Systems**, **AWS**, and **gRPC / Protobuf**.
 
-Currently at **Kairos Technologies**, I author **HLD/LLD specifications**, build high-performance Go microservices for mobile backends, optimize data pipelines (cutting job runtimes by up to 50%), and instrument observability dashboards via **Prometheus & Grafana**. Over the course of my career across **Kairos Technologies**, **Ascendion Engineering**, **Coforge**, and **NIIT Technologies**, I have engineered core transactional ledger engines, migrated 200K+ critical healthcare records to AWS with zero downtime, and decomposed monolithic systems into scalable Go services.
+Currently at **Kairos Technologies**, I author **HLD/LLD specifications**, build high-performance Go microservices for mobile backends, optimize recurring data-processing pipelines from ~6h to ~3h alongside ~20m partial workflows, and instrument observability dashboards via **Prometheus & Grafana**. Over the course of my career across **Kairos Technologies**, **Ascendion Engineering**, **Coforge**, and **NIIT Technologies**, I have engineered core transactional ledger engines, automated ETL and schema-mapping workflows for 200K+ healthcare records on AWS, and built scalable Go and Spring Boot microservices with asynchronous task queues.
 
 ---
 
@@ -71,9 +71,9 @@ Currently at **Kairos Technologies**, I author **HLD/LLD specifications**, build
 
 | Period | Organization | Role | Key Engineering Scope |
 | :--- | :--- | :--- | :--- |
-| **Nov 2024 – Present** | **Kairos Technologies** | Senior Software Engineer | Distributed Go microservices, gRPC/Protobuf, HLD/LLD specs, automated S3 ingestion, Prometheus/Grafana triage |
-| **Nov 2022 – Oct 2024** | **Ascendion Engineering** | Software Engineer | Modular Go REST microservices (Gorilla/Mux, GORM, MongoDB), 200K+ zero-downtime ETL migration to AWS |
-| **Jul 2020 – Nov 2022** | **Coforge** | Senior Software Engineer | Core SaaS transaction & ledger engines, monolithic feature decomposition to scalable Go & Spring Boot on AWS |
+| **Nov 2024 – Present** | **Kairos Technologies** | Senior Software Engineer | Distributed Go microservices, gRPC/Protobuf, HLD/LLD specs, automated S3 ingestion & deduplication pipelines, Prometheus/Grafana triage |
+| **Nov 2022 – Oct 2024** | **Ascendion Engineering** | Software Engineer | Modular Go REST microservices (Gorilla/Mux, GORM, MongoDB), automated ETL & schema-mapping workflows for 200K+ healthcare records on AWS |
+| **Jul 2020 – Nov 2022** | **Coforge** | Senior Software Engineer | Core SaaS transaction & ledger engines, scalable Go & Spring Boot services on AWS, asynchronous task prioritization & SLA queues |
 | **Jan 2020 – Jul 2020** | **NIIT Technologies** | Trainee Java Developer | RESTful APIs with Java, Spring Boot, MySQL, and serverless AWS Lambda triggers |
 
 ---
@@ -81,8 +81,8 @@ Currently at **Kairos Technologies**, I author **HLD/LLD specifications**, build
 ### 🏆 Key Engineering Achievements
 
 - 🥇 **"One-Man Army" Award:** Recognized by client leadership for independently delivering critical microservices end-to-end.
-- ⚡ **50% Data Crunch Optimization:** Slashed data crunch runtime from 6h to 3h and cut cron execution from 3h to 20m via automated deduplication endpoints and collision resolution.
-- ☁️ **200K+ Cloud Database Migration:** Successfully migrated 200,000+ sensitive healthcare records to AWS databases via automated ETL pipelines with zero downtime.
+- ⚡ **Data Processing Optimization:** Improved recurring data-processing workflows from ~6h to ~3h and implemented a separate transient/partial processing workflow completing in ~20 minutes while preventing duplicate processing.
+- ☁️ **200K+ Healthcare Records Migration:** Automated ETL and schema-mapping workflows for migration and processing of 200K+ healthcare records on AWS.
 - 📉 **Latency Reduction:** Slashed mobile API latency for Go microservices using gRPC/Protobuf and flattened JSON payload restructuring.
 
 ---
@@ -95,7 +95,7 @@ Currently at **Kairos Technologies**, I author **HLD/LLD specifications**, build
 | **Anthropic** | Claude 101 | AI & LLMs | ✅ VERIFIED |
 | **HackerRank** | Basics of Golang | Go Systems | ✅ VERIFIED |
 | **SoloLearn** | GO Professional Certification | Go Systems | ✅ VERIFIED |
-| **Udemy** | Blockchain with Go | Distributed Architecture | ✅ VERIFIED |
+| **Udemy** | Blockchain with Go | Go / Blockchain | ✅ VERIFIED |
 | **Udemy** | Spring Framework & Spring Boot | Enterprise Java | ✅ VERIFIED |
 | **Udemy** | Introduction of MongoDB | NoSQL Databases | ✅ VERIFIED |
 | **Udemy** | Node.js and Express | Backend Development | ✅ VERIFIED |
